@@ -14,7 +14,7 @@
 
 	<organization>
 		<name> Gwanmesiatech</name>
-		<url>http://Gwantechnologies.com/</url>
+		<url>https://github.com/gwanmesiatech/maven-web-application.git </url>
 	</organization>
 
         <properties>
